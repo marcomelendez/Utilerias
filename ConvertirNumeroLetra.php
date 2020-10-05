@@ -1,6 +1,6 @@
 <?php
 
-class FormatWrittenAmount
+class ConvertirNumeroLetra
 {
    
    public function format($value,$n){
